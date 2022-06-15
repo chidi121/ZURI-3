@@ -1,0 +1,61 @@
+body{
+    background-color: hsl(0, 0%, 95%);
+
+}
+.flex-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    padding-top: 100px;
+
+}
+.card-1{
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 5px 0 0 5px;
+    padding: 30px 46px;
+    
+}
+.card-2{
+    background-color: hsl(184, 100%, 22%);
+    border-radius: none;
+    padding: 30px 40px;
+}
+.card-3{
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0 5px 5px 0;
+    padding: 30px 40px;
+}
+h2{
+   color: hsl(0, 0%, 95%);
+   font-family: 'Big Shoulders Display', cursive;
+   font-weight: 700;
+   font-size: 30px;
+ 
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    padding-bottom: 50px;
+    line-height: 1.5em;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 30px;
+    padding: 8px 10px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+.learn{
+    color: hsl(31, 77%, 52%);
+}
+.learn2{
+    color: hsl(184, 100%, 22%);
+}
+.learn3{
+    color: hsl(179, 100%, 13%);
+}
